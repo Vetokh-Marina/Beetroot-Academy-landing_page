@@ -110,11 +110,9 @@ img {
 .star:not(:last-child) {
     margin-right: 2px;
 }
-
 .social-group img:hover {
     background-color: rgb(43, 159, 226);
     border-radius: 15px;
-
 }
 /* ---footer */
 .button {
@@ -127,7 +125,6 @@ img {
     letter-spacing: 0.1em;
     border-radius: 22px;
 }
-
 .button:hover {
     background: #FFFFFF;
     color: var(--main-color-text);
