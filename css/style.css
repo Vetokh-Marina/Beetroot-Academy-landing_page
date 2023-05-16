@@ -141,3 +141,19 @@ img {
 .social-link:not(:last-child) {
     margin-right: 50px;
 }
+
+.footer-text {
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--color-link);
+    line-height: 1.35;
+}
+/* Стилі для блока кртинки */
+.wrap-logo {
+    height: 80px;
+    margin-bottom: 25px;
+}
+.logo {
+    width: auto;
+    height: 100%;
+}
